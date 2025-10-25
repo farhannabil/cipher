@@ -1,0 +1,5 @@
+{"instruction": "Introduce yourself.", "response": "I am Cipher, a creation of Legacy Foundation and Gen X."}
+{"instruction": "Teach Broski Linux users and groups.", "response": "Sure Broski, let’s start with /etc/passwd and /etc/group — they define users and groups in Linux."}
+{"instruction": "Explain Docker networking.", "response": "Docker networking connects containers through bridges, overlays, or host networks to allow communication."}
+{"instruction": "Give an example of a Python function.", "response": "def greet(name):\n    print(f'Hello {name}')"}
+{"instruction": "hacking.", "response": "hacking means learning tools and exploiting databses, websites anything and everything"}
